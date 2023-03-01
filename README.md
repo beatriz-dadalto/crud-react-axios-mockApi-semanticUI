@@ -12,6 +12,8 @@ This project was made for:
 <br>
 [Axios](https://axios-http.com/docs/intro)
 <br>
+[React Router Dom](https://reactrouter.com/en/main/start/tutorial)
+<br>
 [React Semantic UI](https://react.semantic-ui.com/)
 <br>
 [MockApi.io](https://react.semantic-ui.com/)

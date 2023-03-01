@@ -6,6 +6,12 @@ This project was made for:
 - <strong>[PUT]</strong> Update a user
 - <strong>[DELETE]</strong> Delete a user
 
+## Print
+
+<img src="https://github.com/beatriz-dadalto/crud-react-axios-mockApi-semanticUI/blob/main/screen-list.png?raw=true" alt="list screen">
+<br>
+<img src="https://github.com/beatriz-dadalto/crud-react-axios-mockApi-semanticUI/blob/main/screen-update.png?raw=true" alt="list screen">
+
 ### Used Technologies
 
 [React](https://reactjs.org/docs/getting-started.html)
